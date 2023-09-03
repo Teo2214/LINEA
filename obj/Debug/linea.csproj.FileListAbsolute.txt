@@ -1,0 +1,11 @@
+C:\Users\DSC\Desktop\UNI\linea\bin\Debug\linea.exe.config
+C:\Users\DSC\Desktop\UNI\linea\bin\Debug\linea.exe
+C:\Users\DSC\Desktop\UNI\linea\bin\Debug\linea.pdb
+C:\Users\DSC\Desktop\UNI\linea\obj\Debug\linea.csproj.AssemblyReference.cache
+C:\Users\DSC\Desktop\UNI\linea\obj\Debug\linea.csproj.SuggestedBindingRedirects.cache
+C:\Users\DSC\Desktop\UNI\linea\obj\Debug\linea.Form1.resources
+C:\Users\DSC\Desktop\UNI\linea\obj\Debug\linea.Properties.Resources.resources
+C:\Users\DSC\Desktop\UNI\linea\obj\Debug\linea.csproj.GenerateResource.cache
+C:\Users\DSC\Desktop\UNI\linea\obj\Debug\linea.csproj.CoreCompileInputs.cache
+C:\Users\DSC\Desktop\UNI\linea\obj\Debug\linea.exe
+C:\Users\DSC\Desktop\UNI\linea\obj\Debug\linea.pdb
